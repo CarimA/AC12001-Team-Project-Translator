@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TrieNode()
+comment1.params=character
+comment1.target=TrieNode(char)
+comment2.params=word\ language\ translatedWord
+comment2.target=void\ add(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=c
+comment3.target=TrieNode\ getNode(char)
+comment4.params=
+comment4.target=java.util.List\ getWords()
+comment5.params=language
+comment5.target=java.util.List\ getWords(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TrieNode\ getRoot()
+comment1.params=root
+comment1.target=void\ setRoot(TrieNode)
+comment2.params=
+comment2.target=Trie()
+comment3.params=word\ language\ translatedWord
+comment3.target=void\ add(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=prefix
+comment4.target=java.util.List\ getWords(java.lang.String)
+comment5.params=prefix\ language
+comment5.target=java.util.List\ getWords(java.lang.String,\ java.lang.String)
+numComments=6
