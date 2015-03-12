@@ -13,76 +13,62 @@ public class Tester
         // A
         test.add("air", "", "");
         test.add("a", "", "");
-        test.add("aeroplane", "", "");
-        
+        test.add("aeroplane", "", "");        
         // B
         test.add("buy", "", "");
-        test.add("balloon", "", "");
-        
+        test.add("balloon", "", "");        
         // C
         test.add("cake", "", "");
-        test.add("cool", "", "");
-        
+        test.add("cool", "", "");        
         // D
         test.add("door", "", "");        
-        test.add("dare", "", "");
-        
+        test.add("dare", "", "");       
         // E
         test.add("egg", "", "");
-        test.add("exe", "", "");
-        
+        test.add("exe", "", "");        
         // F
         test.add("face", "", "");
-        test.add("fake", "", "");
-        
+        test.add("fake", "", "");       
         // G
         test.add("gear", "", "");
-        test.add("gray", "", "");
-        
+        test.add("gray", "", "");        
         // H
         test.add("hello", "", "");
-        test.add("hero", "", "");
-        
+        test.add("hero", "", "");        
         // I 
         test.add("ignite", "", "");
-        test.add("individual", "", "");
-        
+        test.add("individual", "", "");        
         // J
         test.add("jelly", "", "");
-        test.add("joy", "", "");
-        
+        test.add("joy", "", "");        
         // K
         test.add("krill", "", "");
-        test.add("kill", "", "");
-        
+        test.add("kill", "", "");        
         // L
         test.add("line", "", "");
-        test.add("lock", "", "");
-        
+        test.add("lock", "", "");        
         // M
         test.add("maze", "", "");
-        test.add("my", "", "");
-        
+        test.add("my", "", "");        
         // N
         test.add("no", "", "");
         test.add("nice", "", "");
-        
         // O
         test.add("orange", "", "");
         test.add("origami", "", "");
-        
         // P
         test.add("picture", "", "");
         test.add("perfect", "", "");
-        
         // Q
         test.add("queen", "", "");
-        test.add("queue", "", "");
-        
+        test.add("queue", "", "");        
         // R
         
         // S
         
-        System.out.println(test.getWords(""));
+        test.add("in", "french", "test1");
+        test.add("inn", "french", "test43");
+        
+        System.out.println(test.getWords("inn", "french"));
     }
 }
