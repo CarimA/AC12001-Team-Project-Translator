@@ -1,9 +1,11 @@
+package Daqg;
+
 import java.util.*;
 
 public class TrieNode
 {
     private TrieNode parent;
-    private TrieNode[] children;
+    private Hashtable<Integer, TrieNode> children;
     
     private boolean isLeaf;
     private char character;
@@ -13,7 +15,7 @@ public class TrieNode
     
     public TrieNode()
     {
-        children = new TrieNode[26];
+        children = new Hashtable();
         isLeaf = true;
         isWord = false;
     }
@@ -30,29 +32,29 @@ public class TrieNode
         
         int charPos = word.charAt(0) - 'a';
         
-        if (children[charPos] == null)
+        if (children.get(charPos) == null)
         {
-            children[charPos] = new TrieNode(word.charAt(0));
-            children[charPos].parent = this;
+            children.put(charPos, new TrieNode(word.charAt(0)));
+            children.get(charPos).parent = this;
         }
         
         if (word.length() > 1)
         {
-            children[charPos].add(word.substring(1), language, translatedWord);
+            children.get(charPos).add(word.substring(1), language, translatedWord);
         }
         else
         {
-            if (children[charPos].translatedWords == null)
-                children[charPos].translatedWords = new Hashtable();
+            if (children.get(charPos).translatedWords == null)
+                children.get(charPos).translatedWords = new Hashtable();
                 
-            children[charPos].isWord = true;
-            children[charPos].translatedWords.put(language, translatedWord);
+            children.get(charPos).isWord = true;
+            children.get(charPos).translatedWords.put(language, translatedWord);
         }
     }
     
     public TrieNode getNode(char c)
     {
-        return children[c - 'a'];
+        return children.get(c - 'a');
     }
     
     public List getWords()
@@ -66,10 +68,9 @@ public class TrieNode
         
         if (!isLeaf)
         {
-            for (int i = 0; i < children.length; i++)
+            for (Integer key: children.keySet())
             {
-                if (children[i] != null)
-                    list.addAll(children[i].getWords());
+                list.addAll(children.get(key).getWords());
             }
         }
         
@@ -87,10 +88,9 @@ public class TrieNode
         
         if (!isLeaf)
         {
-            for (int i = 0; i < children.length; i++)
+            for (Integer key: children.keySet())
             {
-                if (children[i] != null)
-                    list.addAll(children[i].getWords(language));
+                list.addAll(children.get(key).getWords(language));
             }
         }
         

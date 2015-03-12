@@ -1,3 +1,5 @@
+package Daqg;
+
 import java.util.*;
 
 public class Trie
