@@ -73,6 +73,6 @@ public class Tester
         test.add("in", "french", "test1");
         test.add("inn", "french", "test43");
         
-        System.out.println(test.getWords("inn", "french"));
+        System.out.println(test.getWords("in", "french"));
     }
 }
