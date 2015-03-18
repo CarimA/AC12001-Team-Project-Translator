@@ -1,0 +1,8 @@
+Wednesday 18th of March
+
+Uploaded HashTable code draft
+Uploaded Interface code draft
+Talked about future progress
+Erik will make the file with which the program will populate the dictionaries
+Carim starts work on making the methods to add the words from file
+Callum will proceed with their previously assigned tasks
