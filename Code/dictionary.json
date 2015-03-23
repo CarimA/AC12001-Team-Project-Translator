@@ -1,0 +1,711 @@
+{
+	"words": [
+	{
+		"word": {
+		"french": "Bonjuor",
+		"english": "Hello",
+		"spanish": "Hola"
+		}
+	},
+	{
+		"word": {
+		"french": "Au revoir",
+		"english": "Bye",
+		"spanish": "Adiós"
+		}
+	},
+	{
+		"word": {
+		"french": "Bonne journée",
+		"english": "Good day",
+		"spanish": "Buenos días"
+		}
+	},
+	{
+		"word": {
+		"french": "Bonne Nuit",
+		"english": "Good night",
+		"spanish": "Buenas Noches"
+		}
+	},
+	{
+		"word": {
+		"french": "Bonsoir",
+		"english": "Good evening",
+		"spanish": "Buenas Noches"
+		}
+	},
+	{
+		"word": {
+		"french": "Fromage",
+		"english": "Cheese",
+		"spanish": "Queso"
+		}
+	},
+	{
+		"word": {
+		"french": "je",
+		"english": "I",
+		"spanish": "yO"
+		}
+	},
+	{
+		"word": {
+		"french": "moi",
+		"english": "me",
+		"spanish": ""
+		}
+	},
+	{
+		"word": {
+		"french": "vous",
+		"english": "you",
+		"spanish": "usted"
+		}
+	},
+	{
+		"word": {
+		"french": "il",
+		"english": "he",
+		"spanish": "él"
+		}
+	},
+	{
+		"word": {
+		"french": "elle",
+		"english": "she",
+		"spanish": "ella"
+		}
+	},
+	{
+		"word": {
+		"french": "il",
+		"english": "it",
+		"spanish": "ello"
+		}
+	},
+	{
+		"word": {
+		"french": "les",
+		"english": "them",
+		"spanish": "ellos"
+		}
+	},
+	{
+		"word": {
+		"french": "exister",
+		"english": "exist",
+		"spanish": "existir"
+		}
+	},
+	{
+		"word": {
+		"french": "oui",
+		"english": "yes",
+		"spanish": "sí"
+		}
+	},
+	{
+		"word": {
+		"french": "non",
+		"english": "no",
+		"spanish": "no"
+		}
+	},
+	{
+		"word": {
+		"french": "quoi",
+		"english": "what",
+		"spanish": "qué"
+		}
+	},
+	{
+		"word": {
+		"french": "code",
+		"english": "code",
+		"spanish": "código"
+		}
+	},
+	{
+		"word": {
+		"french": "test",
+		"english": "test",
+		"spanish": "prueba"
+		}
+	},
+	{
+		"word": {
+		"french": "clavier",
+		"english": "keyboard",
+		"spanish": "teclado"
+		}
+	},
+	{
+		"word": {
+		"french": "ordinateur",
+		"english": "computer",
+		"spanish": "computadora"
+		}
+	},
+	{
+		"word": {
+		"french": "souris",
+		"english": "mouse",
+		"spanish": "ratón"
+		}
+	},
+	{
+		"word": {
+		"french": "moniteur",
+		"english": "monitor",
+		"spanish": "monitor"
+		}
+	},
+	{
+		"word": {
+		"french": "processus",
+		"english": "process",
+		"spanish": "proceso"
+		}
+	},
+	{
+		"word": {
+		"french": "programme",
+		"english": "program",
+		"spanish": "programa"
+		}
+	},
+	{
+		"word": {
+		"french": "programmeur",
+		"english": "programmer",
+		"spanish": "programador"
+		}
+	},
+	{
+		"word": {
+		"french": "dictionnaire",
+		"english": "dictionary",
+		"spanish": "diccionario"
+		}
+	},
+	{
+		"word": {
+		"french": "arbre",
+		"english": "tree",
+		"spanish": "árbol"
+		}
+	},
+	{
+		"word": {
+		"french": "pain",
+		"english": "bread",
+		"spanish": "pan"
+		}
+	},
+	{
+		"word": {
+		"french": "projet",
+		"english": "project",
+		"spanish": "proyecto"
+		}
+	},
+	{
+		"word": {
+		"french": "casse-croûte",
+		"english": "snack",
+		"spanish": "bocadillo"
+		}
+	},
+	{
+		"word": {
+		"french": "lumière",
+		"english": "light",
+		"spanish": "luz"
+		}
+	},
+	{
+		"word": {
+		"french": "pourquoi",
+		"english": "why",
+		"spanish": "por qué"
+		}
+	},
+	{
+		"word": {
+		"french": "quand",
+		"english": "when",
+		"spanish": "cuándo"
+		}
+	},
+	{
+		"word": {
+		"french": "tomate",
+		"english": "tomato",
+		"spanish": "tomate"
+		}
+	},
+	{
+		"word": {
+		"french": "données",
+		"english": "data",
+		"spanish": "datos"
+		}
+	},
+	{
+		"word": {
+		"french": "information",
+		"english": "information",
+		"spanish": "información"
+		}
+	},
+	{
+		"word": {
+		"french": "universel",
+		"english": "universal",
+		"spanish": "universal"
+		}
+	},
+	{
+		"word": {
+		"french": "traducteur",
+		"english": "translator",
+		"spanish": "traductor"
+		}
+	},
+	{
+		"word": {
+		"french": "comment",
+		"english": "how",
+		"spanish": "cómo"
+		}
+	},
+	{
+		"word": {
+		"french": "parce que",
+		"english": "because",
+		"spanish": "porque"
+		}
+	},
+	{
+		"word": {
+		"french": "manger",
+		"english": "eat",
+		"spanish": "comer"
+		}
+	},
+	{
+		"word": {
+		"french": "savoir",
+		"english": "know",
+		"spanish": "saber"
+		}
+	},
+	{
+		"word": {
+		"french": "que",
+		"english": "that",
+		"spanish": "que"
+		}
+	},
+	{
+		"word": {
+		"french": "avoir",
+		"english": "have",
+		"spanish": "tener"
+		}
+	},
+	{
+		"word": {
+		"french": "pour",
+		"english": "for",
+		"spanish": "para"
+		}
+	},
+	{
+		"word": {
+		"french": "pas",
+		"english": "not",
+		"spanish": "no"
+		}
+	},
+	{
+		"word": {
+		"french": "sur",
+		"english": "on",
+		"spanish": "en"
+		}
+	},
+	{
+		"word": {
+		"french": "avec",
+		"english": "with",
+		"spanish": "con"
+		}
+	},
+	{
+		"word": {
+		"french": "faire",
+		"english": "do",
+		"spanish": "hacer"
+		}
+	},
+	{
+		"word": {
+		"french": "cette",
+		"english": "this",
+		"spanish": "este"
+		}
+	},
+	{
+		"word": {
+		"french": "mais",
+		"english": "but",
+		"spanish": "pero"
+		}
+	},
+	{
+		"word": {
+		"french": "son",
+		"english": "his",
+		"spanish": "su"
+		}
+	},
+	{
+		"word": {
+		"french": "par",
+		"english": "by",
+		"spanish": "por"
+		}
+	},
+	{
+		"word": {
+		"french": "à partir de",
+		"english": "from",
+		"spanish": "desde"
+		}
+	},
+	{
+		"word": {
+		"french": "ils",
+		"english": "they",
+		"spanish": "ellos"
+		}
+	},
+	{
+		"word": {
+		"french": "nous",
+		"english": "we",
+		"spanish": "nosotros"
+		}
+	},
+	{
+		"word": {
+		"french": "dire",
+		"english": "say",
+		"spanish": "decir"
+		}
+	},
+	{
+		"word": {
+		"french": "son",
+		"english": "her",
+		"spanish": "su"
+		}
+	},
+	{
+		"word": {
+		"french": "ma",
+		"english": "my",
+		"spanish": "mi"
+		}
+	},
+	{
+		"word": {
+		"french": "une",
+		"english": "one",
+		"spanish": "uno"
+		}
+	},
+	{
+		"word": {
+		"french": "deux",
+		"english": "two",
+		"spanish": "dos"
+		}
+	},
+	{
+		"word": {
+		"french": "trois",
+		"english": "three",
+		"spanish": "tres"
+		}
+	},
+	{
+		"word": {
+		"french": "quatre",
+		"english": "four",
+		"spanish": "cuatro"
+		}
+	},
+	{
+		"word": {
+		"french": "cinq",
+		"english": "five",
+		"spanish": "cinco"
+		}
+	},
+	{
+		"word": {
+		"french": "six",
+		"english": "six",
+		"spanish": "seis"
+		}
+	},
+	{
+		"word": {
+		"french": "sept",
+		"english": "seven",
+		"spanish": "siete"
+		}
+	},
+	{
+		"word": {
+		"french": "huit",
+		"english": "eight",
+		"spanish": "ocho"
+		}
+	},
+	{
+		"word": {
+		"french": "neuf",
+		"english": "nine",
+		"spanish": "nueve"
+		}
+	},
+	{
+		"word": {
+		"french": "dix",
+		"english": "ten",
+		"spanish": "diez"
+		}
+	},
+	{
+		"word": {
+		"french": "tous",
+		"english": "all",
+		"spanish": "todos"
+		}
+	},
+	{
+		"word": {
+		"french": "voudrais",
+		"english": "would",
+		"spanish": "haría"
+		}
+	},
+	{
+		"word": {
+		"french": "là",
+		"english": "there",
+		"spanish": "ya está"
+		}
+	},
+	{
+		"word": {
+		"french": "leur",
+		"english": "their",
+		"spanish": "su"
+		}
+	},
+	{
+		"word": {
+		"french": "en haut",
+		"english": "up",
+		"spanish": "arriba"
+		}
+	},
+	{
+		"word": {
+		"french": "vers le bas",
+		"english": "down",
+		"spanish": "abajo"
+		}
+	},
+	{
+		"word": {
+		"french": "gauche",
+		"english": "left",
+		"spanish": "izquierda"
+		}
+	},
+	{
+		"word": {
+		"french": "droit",
+		"english": "right",
+		"spanish": "derecho"
+		}
+	},
+	{
+		"word": {
+		"french": "avant",
+		"english": "forward",
+		"spanish": "adelante"
+		}
+	},
+	{
+		"word": {
+		"french": "arriéré",
+		"english": "backward",
+		"spanish": "hacia atrás"
+		}
+	},
+	{
+		"word": {
+		"french": "rouge",
+		"english": "red",
+		"spanish": "rojo"
+		}
+	},
+	{
+		"word": {
+		"french": "jaune",
+		"english": "yellow",
+		"spanish": "amarillo"
+		}
+	},
+	{
+		"word": {
+		"french": "vert",
+		"english": "green",
+		"spanish": "verde"
+		}
+	},
+	{
+		"word": {
+		"french": "bleu",
+		"english": "blue",
+		"spanish": "azul"
+		}
+	},
+	{
+		"word": {
+		"french": "parler",
+		"english": "speak",
+		"spanish": "hablar"
+		}
+	},
+	{
+		"word": {
+		"french": "anglais",
+		"english": "english",
+		"spanish": "Inglés"
+		}
+	},
+	{
+		"word": {
+		"french": "français",
+		"english": "french",
+		"spanish": "francés"
+		}
+	},
+	{
+		"word": {
+		"french": "espagnol",
+		"english": "spanish",
+		"spanish": "español"
+		}
+	},
+	{
+		"word": {
+		"french": "instructions",
+		"english": "instructions",
+		"spanish": "instrucciones"
+		}
+	},
+	{
+		"word": {
+		"french": "feu de circulation",
+		"english": "traffic light",
+		"spanish": "semáforo"
+		}
+	},
+	{
+		"word": {
+		"french": "traversée",
+		"english": "crossing",
+		"spanish": "cruce"
+		}
+	},
+	{
+		"word": {
+		"french": "voiture",
+		"english": "car",
+		"spanish": "coche"
+		}
+	},
+	{
+		"word": {
+		"french": "plan",
+		"english": "plane",
+		"spanish": "avión"
+		}
+	},
+	{
+		"word": {
+		"french": "train",
+		"english": "train",
+		"spanish": "tren"
+		}
+	},
+	{
+		"word": {
+		"french": "bus",
+		"english": "bus",
+		"spanish": "autobús"
+		}
+	},
+	{
+		"word": {
+		"french": "bateau",
+		"english": "boat",
+		"spanish": "barco"
+		}
+	},
+	{
+		"word": {
+		"french": "maison",
+		"english": "house",
+		"spanish": "casa"
+		}
+	},
+	{
+		"word": {
+		"french": "musée",
+		"english": "museum",
+		"spanish": "museo"
+		}
+	},
+	{
+		"word": {
+		"french": "bière",
+		"english": "beer",
+		"spanish": "cerveza"
+		}
+	},
+	{
+		"word": {
+		"french": "argent",
+		"english": "money",
+		"spanish": "dinero"
+		}
+	},
+	{
+		"word": {
+		"french": "Combien d'argent?",
+		"english": "How much money?",
+		"spanish": "¿Cuánto dinero?"
+		}
+	}
+  ]
+}
