@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=Tester()
+comment2.params=index\ language
+comment2.target=java.lang.String\ getWord(int,\ java.lang.String)
+comment3.params=baseWord\ baseLanguage\ targetLanguage
+comment3.target=java.lang.String\ getWord(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=eng\ spa\ fre
+comment4.target=HashTable\ addWord(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=5
