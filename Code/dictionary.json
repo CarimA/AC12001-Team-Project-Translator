@@ -706,6 +706,13 @@
 		"english": "How much money?",
 		"spanish": "¿Cuánto dinero?"
 		}
+	},
+	{
+		"word": {
+		"french": "Quelle heure est-il??",
+		"english": "What time is it?",
+		"spanish": "Qué hora es?"
+		}
 	}
   ]
 }
