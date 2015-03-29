@@ -3,6 +3,10 @@ import org.eclipse.swt.widgets.Display;
 import org.eclipse.swt.widgets.Shell;
 import org.eclipse.swt.widgets.Text;
 import org.eclipse.swt.widgets.Button;
+import org.eclipse.swt.widgets.List;
+import org.eclipse.jface.viewers.ListViewer;
+import org.eclipse.swt.events.MouseAdapter;
+import org.eclipse.swt.events.MouseEvent;
 
 
 public class DisplayWindow extends Shell {
@@ -39,6 +43,12 @@ public class DisplayWindow extends Shell {
 		text.setBounds(0, 0, 306, 465);
 		
 		Button btnNewButton = new Button(this, SWT.NONE);
+		btnNewButton.addMouseListener(new MouseAdapter() {
+			@Override
+			public void mouseDown(MouseEvent e) {
+				//<InsertMethodHere>				
+			}
+		});
 		btnNewButton.setBounds(221, 471, 75, 25);
 		btnNewButton.setText("Close");
 		createContents();
@@ -52,10 +62,4 @@ public class DisplayWindow extends Shell {
 		setSize(322, 544);
 
 	}
-
-	@Override
-	protected void checkSubclass() {
-		// Disable the check that prevents subclassing of SWT components
-	}
-
 }
