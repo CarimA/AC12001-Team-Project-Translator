@@ -1,0 +1,130 @@
+{
+  "words": [
+    {
+      "entries": [
+        [
+          "english",
+          "hello"
+        ],
+        [
+          "french",
+          "bonjour"
+        ],
+        [
+          "spanish",
+          "hola"
+        ],
+        null
+      ],
+      "index": 3
+    },
+    {
+      "entries": [
+        [
+          "english",
+          "bye"
+        ],
+        [
+          "french",
+          "adieu"
+        ],
+        [
+          "spanish",
+          "adios"
+        ],
+        null
+      ],
+      "index": 3
+    },
+    {
+      "entries": [
+        [
+          "english",
+          "cheese"
+        ],
+        [
+          "french",
+          "fromage"
+        ],
+        [
+          "spanish",
+          "queso"
+        ],
+        null
+      ],
+      "index": 3
+    },
+    {
+      "entries": [
+        [
+          "english",
+          "i"
+        ],
+        [
+          "french",
+          "je"
+        ],
+        [
+          "spanish",
+          "yo"
+        ],
+        null
+      ],
+      "index": 3
+    },
+    {
+      "entries": [
+        [
+          "english",
+          "me"
+        ],
+        [
+          "french",
+          "moi"
+        ],
+        [
+          "spanish",
+          ""
+        ],
+        null
+      ],
+      "index": 3
+    },
+    {
+      "entries": [
+        [
+          "english",
+          "you"
+        ],
+        [
+          "french",
+          "vous"
+        ],
+        [
+          "spanish",
+          "usted"
+        ],
+        null
+      ],
+      "index": 3
+    },
+    {
+      "entries": [
+        [
+          "english",
+          "he"
+        ],
+        [
+          "french",
+          "il"
+        ],
+        [
+          "spanish",
+          "él"
+        ],
+        null
+      ],
+      "index": 3
+    }
+  ]
+}
